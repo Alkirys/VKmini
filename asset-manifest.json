@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.5f4bf938.css",
-    "main.js": "./static/js/main.e74e276f.js",
+    "main.js": "./static/js/main.7389e434.js",
     "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
     "static/media/Montserrat-Regular.woff": "./static/media/Montserrat-Regular.d6faae4f5b1637779ae9.woff",
     "static/media/Montserrat-Regular.woff2": "./static/media/Montserrat-Regular.fcb334ae86289352c6f6.woff2",
     "index.html": "./index.html",
     "main.5f4bf938.css.map": "./static/css/main.5f4bf938.css.map",
-    "main.e74e276f.js.map": "./static/js/main.e74e276f.js.map",
+    "main.7389e434.js.map": "./static/js/main.7389e434.js.map",
     "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f4bf938.css",
-    "static/js/main.e74e276f.js"
+    "static/js/main.7389e434.js"
   ]
 }
