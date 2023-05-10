@@ -1,0 +1,8 @@
+.button {
+    width: min-content;
+    border: none;
+    padding: var(--top-padding) var(--side--padding);
+    background-color: var(--coral);
+    border-radius: var(--small-border-radius);
+    cursor: pointer;
+}

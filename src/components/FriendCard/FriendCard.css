@@ -1,0 +1,14 @@
+.friendCard {
+    height: min-content;
+    width: 100%;
+    border-radius: var(--large-border-radius);
+    background-color: var(--rose);
+    box-sizing: border-box;
+    padding: var(--side--padding);
+    display: flex;
+    gap: var(--gap);
+}
+
+.friendCard__avatar {
+    border-radius: var(--large-border-radius);
+}

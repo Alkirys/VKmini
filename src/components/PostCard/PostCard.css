@@ -1,0 +1,29 @@
+.postCard {
+    display: flex;
+    flex-direction: column;
+    border-radius: var(--small-border-radius);
+    background-color: var(--rose);
+    gap: var(--side--padding);
+    padding: var(--side--padding);
+}
+
+.postCard__image {
+    border-radius: var(--small-border-radius);
+}
+
+.postCard__info {
+    display: flex;
+    align-self: flex-end;
+    align-items: center;
+    gap: var(--large-padding);
+}
+
+.postCard__content {
+    display: flex;
+    gap: var(--large-padding);
+    min-height: 120px;
+}
+
+.postCard__text {
+    margin: 0;
+}

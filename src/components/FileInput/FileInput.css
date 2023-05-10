@@ -1,0 +1,42 @@
+.fileInputContainer {
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+
+.fileInput {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+}
+
+.fileInputLabel {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: var(--gap);
+}
+
+.fileInput__description {
+    background-color: var(--background);
+    border: none;
+    color: var(--font);
+    outline: none;
+    border-radius: var(--small-border-radius);
+    padding: var(--top-padding) var(--side--padding);
+    word-break: break-all;
+    min-width: 50%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.fileInput__button {
+    border: none;
+    padding: var(--top-padding) 15px;
+    background-color: var(--coral);
+    border-radius: var(--small-border-radius);
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.createPost__text {
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    border-radius: var(--large-border-radius);
+    background-color: var(--rose);
+    width: 100%;
+    height: 200px;
+    margin: 0;
+    padding: var(--top-padding) var(--side--padding);
+}
+
+.createPost__container {
+    display: flex;
+    flex-direction: column;
+    gap: var(--side--padding);
+}
