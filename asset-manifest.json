@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/VKmini/static/css/main.7ed99f28.css",
+    "main.js": "/VKmini/static/js/main.c9cf5853.js",
+    "static/js/787.28cb0dcd.chunk.js": "/VKmini/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Montserrat-Regular.woff": "/VKmini/static/media/Montserrat-Regular.d6faae4f5b1637779ae9.woff",
+    "static/media/Montserrat-Regular.woff2": "/VKmini/static/media/Montserrat-Regular.fcb334ae86289352c6f6.woff2",
+    "index.html": "/VKmini/index.html",
+    "main.7ed99f28.css.map": "/VKmini/static/css/main.7ed99f28.css.map",
+    "main.c9cf5853.js.map": "/VKmini/static/js/main.c9cf5853.js.map",
+    "787.28cb0dcd.chunk.js.map": "/VKmini/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ed99f28.css",
+    "static/js/main.c9cf5853.js"
+  ]
+}
