@@ -16,7 +16,7 @@ export const Header = ({isAuthorized}: HeaderProps) => {
             .then((res) => res.json())
             .then((res) => {
                 UserStore.clear();
-                navigate('/auth');
+                navigate('/');
             })
             .catch((error) => console.log(`Ошибка: ${error}`));
     };

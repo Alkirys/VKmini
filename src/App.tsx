@@ -14,7 +14,7 @@ function App() {
   return (
       <Router>
         <Routes>
-            <Route path="/auth" element={<AuthScreen />}/>
+            <Route path="/" element={<AuthScreen />}/>
             <Route path="/friends" element={<FriendsScreen />}/>
             <Route path="/profile/:id" element={<ProfileScreen/>}/>
             <Route path="/posts" element={<PostsScreen />}/>
