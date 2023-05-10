@@ -47,3 +47,9 @@
 .form__checkerValue--unchecked {
     opacity: var(--main-opacity);
 }
+
+@media screen and (max-width: 400px) {
+    .form {
+        width: 80%;
+    }
+}

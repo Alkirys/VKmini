@@ -15,3 +15,13 @@
     flex-direction: column;
     gap: var(--side--padding);
 }
+
+@media screen and (max-width: 400px) {
+    .createPost__container {
+        align-items: center;
+    }
+
+    .createPost__text {
+        padding: 20px;
+    }
+}

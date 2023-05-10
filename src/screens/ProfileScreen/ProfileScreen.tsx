@@ -59,7 +59,7 @@ export const ProfileScreen = observer(() => {
             <Header isAuthorized={true}/>
             <main className="profile">
                 {/*TODO fix 500px*/}
-                <img width="500px" className="profile__avatar" src={UserStore.avatar} alt="avatar"/>
+                <img className="profile__avatar" src={UserStore.avatar} alt="avatar"/>
                 <div className="profile__info">
                         <h2>{UserStore.name}</h2>
                         <p>{'Возраст: ' + UserStore.age}</p>

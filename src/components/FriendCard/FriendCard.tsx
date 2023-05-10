@@ -32,7 +32,7 @@ export const FriendCard = ({id, name, age, avatar, university}: FriendCardProps)
     return (
         <div className="friendCard">
             {/*TODO уюрать 200px*/}
-            <img width="200px" className="friendCard__avatar" src={avatar} alt={'avatar' + id}/>
+            <img className="friendCard__avatar" src={avatar} alt={'avatar' + id}/>
             <div className="friendCard__infoContainer">
                 <strong>{name}</strong>
                 <p>{'Возраст: ' + age}</p>

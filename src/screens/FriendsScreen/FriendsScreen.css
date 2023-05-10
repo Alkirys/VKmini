@@ -4,3 +4,9 @@
     grid-template-columns: 1fr 1fr;
     grid-gap: var(--gap);
 }
+
+@media screen and (max-width: 400px) {
+    .friendsList {
+        grid-template-columns: 1fr;
+    }
+}

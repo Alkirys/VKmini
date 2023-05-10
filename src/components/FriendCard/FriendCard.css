@@ -10,5 +10,12 @@
 }
 
 .friendCard__avatar {
+    width: 200px;
     border-radius: var(--large-border-radius);
+}
+
+@media screen and (max-width: 400px) {
+    .friendCard__avatar {
+        width: 150px;
+    }
 }
